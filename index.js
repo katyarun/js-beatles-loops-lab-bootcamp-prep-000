@@ -12,8 +12,12 @@ const arr2 = ["guitar", "11", "12"];
 // theBeatlesPlay(arr1, arr2);
 
 function johnLennonFacts(facts) {
-  while () {
-    
+  let arr = [];
+  let i = 0;
+  while (i < facts.length) {
+    arr.push(facts[i] + "!!!");
+    console.log(arr);
+    i++;
   }
 }
 
@@ -23,3 +27,4 @@ const facts = [
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
+johnLennonFacts(facts);
