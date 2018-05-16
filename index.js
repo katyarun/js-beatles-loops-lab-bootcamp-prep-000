@@ -19,6 +19,7 @@ function johnLennonFacts(facts) {
     // console.log(arr);
     i++;
   }
+  return arr;
 }
 
 const facts = [
