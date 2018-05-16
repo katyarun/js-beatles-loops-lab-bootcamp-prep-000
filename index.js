@@ -33,5 +33,10 @@ const facts = [
 
 function iLoveTheBeatles(number) {
   let arr = [];
-  do 
+  do {
+    arr.push("I love the Beatles!");
+    number++;
+  } while {
+    number < 15;
+  }
 }
