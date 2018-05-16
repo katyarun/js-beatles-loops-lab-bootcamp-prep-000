@@ -43,4 +43,4 @@ function iLoveTheBeatles(number) {
 // console.log(iLoveTheBeatles(12));
 // console.log(iLoveTheBeatles(14));
 // console.log(iLoveTheBeatles(15));
-console.log(iLoveTheBeatles(16));
+// console.log(iLoveTheBeatles(16));
