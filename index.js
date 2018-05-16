@@ -12,7 +12,9 @@ const arr2 = ["guitar", "11", "12"];
 // theBeatlesPlay(arr1, arr2);
 
 function johnLennonFacts(facts) {
-  
+  while () {
+    
+  }
 }
 
 const facts = [
