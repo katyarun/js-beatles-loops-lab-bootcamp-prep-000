@@ -40,4 +40,7 @@ function iLoveTheBeatles(number) {
   return arr;
 }
 
-console.log(iLoveTheBeatles(12));
+// console.log(iLoveTheBeatles(12));
+console.log(iLoveTheBeatles(14));
+// console.log(iLoveTheBeatles(15));
+// console.log(iLoveTheBeatles(16));
