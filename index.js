@@ -10,3 +10,7 @@ function theBeatlesPlay(musicians, instruments) {
 const arr1 = ["John Lennon", "01", "02"];
 const arr2 = ["guitar", "11", "12"];
 // theBeatlesPlay(arr1, arr2);
+
+function johnLennonFacts(facts) {
+  
+}
