@@ -31,3 +31,7 @@ const facts = [
 // johnLennonFacts(facts);
 
 
+function iLoveTheBeatles(number) {
+  let arr = [];
+  do 
+}
